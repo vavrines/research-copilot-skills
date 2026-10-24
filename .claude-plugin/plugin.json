@@ -1,7 +1,7 @@
 {
-  "name": "academic-writer",
-  "version": "0.1.1",
-  "description": "Academic writing skill: draft scholarly papers from scratch, or review and revise drafts from students and collaborators.",
+  "name": "research-copilot",
+  "version": "0.2.0",
+  "description": "Research copilot skills: manuscript development/review (paper-master), proposal development (proposal-master), research-direction design (research-architect), and scientific presentations (slide-storyteller), with shared audit modules.",
   "author": {
     "name": "vavrines"
   },

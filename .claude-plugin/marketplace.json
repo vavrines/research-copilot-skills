@@ -1,13 +1,13 @@
 {
-  "name": "academic-writer-marketplace",
+  "name": "research-copilot-marketplace",
   "owner": {
     "name": "vavrines"
   },
   "plugins": [
     {
-      "name": "academic-writer",
+      "name": "research-copilot",
       "source": "./",
-      "description": "Academic writing skill: draft papers from scratch, or review and revise drafts from students and collaborators."
+      "description": "Research copilot skills: paper-master, proposal-master, research-architect, slide-storyteller, plus shared audit modules."
     }
   ]
 }
