@@ -49,15 +49,15 @@ skills/
 ### Claude Code (plugin)
 
 ```sh
-claude plugin marketplace add vavrines/academic-writer
+claude plugin marketplace add vavrines/research-copilot-skills
 claude plugin install research-copilot@research-copilot-marketplace
 ```
 
 ### Claude Code / Codex / generic agents (symlink install)
 
 ```sh
-git clone https://github.com/vavrines/academic-writer.git
-cd academic-writer
+git clone https://github.com/vavrines/research-copilot-skills.git
+cd research-copilot-skills
 ./install.sh                 # installs for claude, codex, and ~/.agents/skills
 ./install.sh claude          # or pick specific targets: claude | codex | agents
 ```
